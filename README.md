@@ -106,23 +106,6 @@ const khushi: Developer = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/khu5shi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khu5shi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khu5shi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=khu5shi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-</div>
-
----
-
 ## 🏆 Achievements
 
 <div align="center">
