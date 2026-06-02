@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A855F7,100:EC4899&height=200&section=header&text=Khushi%20Agrawal&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Engineer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20DSA%20Grinder&descSize=18&descAlignY=58&descColor=E9D5FF" />
+<!-- Animated Header Banner — clicks through to portfolio -->
+<a href="https://portfolio-amber-two-uop66e0bee.vercel.app/" target="_blank">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A855F7,100:EC4899&height=200&section=header&text=Khushi%20Agrawal&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Engineer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20DSA%20Grinder&descSize=18&descAlignY=58&descColor=E9D5FF" />
+</a>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -11,7 +13,7 @@
 <br/>
 
 <!-- Profile Badges -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-khu5hi-7C3AED?style=for-the-badge)](https://portfolio/khu5hi)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-khu5hi-7C3AED?style=for-the-badge)](https://khu5hi.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-khushi--agrawal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-agrawal-08a21b25a/)
 [![Email](https://img.shields.io/badge/Gmail-khushi4608-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushi4608@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-500%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
@@ -108,10 +110,14 @@ const khushi: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=khu5shi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=khu5shi&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/khu5shi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khu5shi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khu5shi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khu5shi&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=khu5shi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
@@ -163,7 +169,7 @@ const khushi: Developer = {
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/khushi_agrawal7589)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushi4608@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio/khu5hi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://khu5hi.vercel.app)
 
 <br/>
 
