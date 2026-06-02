@@ -13,11 +13,11 @@
 <br/>
 
 <!-- Profile Badges -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-khu5hi-7C3AED?style=for-the-badge)](https://khu5hi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-khu5hi-7C3AED?style=for-the-badge)](https://portfolio-amber-two-uop66e0bee.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-khushi--agrawal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-agrawal-08a21b25a/)
-[![Email](https://img.shields.io/badge/Gmail-khushi4608-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushi4608@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5⭐_Programmer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com)
+[![Email](https://img.shields.io/badge/Gmail-khushi4608-D14836?style=for-the-badge&logo=gmail&logoColor=white)](khushi4608@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/khus5hi/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5⭐_Programmer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/Khushi4608)
 
 <img src="https://komarev.com/ghpvc/?username=khu5shi&label=Profile+Views&color=7C3AED&style=flat-square" alt="Profile Views" />
 
